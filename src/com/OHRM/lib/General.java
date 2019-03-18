@@ -44,5 +44,10 @@ public class General extends Gobal
 		 //logger.info("login successfully");
 		 Log.info("test ");
 	}
+	
+	public void logout()
+	{
+		Log.info("this is logout method");
+	}
 }
 
