@@ -1,0 +1,7 @@
+<suite name="OHRM">
+	<test name = "OHRM Login">
+		<classes>
+			<class name="com.OHRMTestScripts.TC_101"/>
+		</classes>
+	</test>
+</suite>
